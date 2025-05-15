@@ -2,23 +2,21 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Gendam Braja Wibowo
+Gendam Braja Wibowo
+Designer - Manager
 
 Show Contacts
 
 Email
-richard@example.com
+brajagendam123@gmail.com
 
 Phone
-+1 (213) 352-2795
++6282147753853
 
-Birthday
-June 23, 1982
 
 Location
-Sacramento, California, USA
+Kartasura, Sukoharjo
 
 # navbar
 
