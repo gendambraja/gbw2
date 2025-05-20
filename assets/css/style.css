@@ -350,7 +350,8 @@ main {
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
-  padding: 3px 12px;
+  padding: 5px 12px;
+margin: 5px;
   border-radius: 8px;
 }
 
